@@ -1,3 +1,7 @@
+# Copyright Daniel Nebdal <daniel@nebdal.net> 2013. 
+# https://github.com/dnebdal/freestyle-dump/
+# Distributed under the 2-clause BSD license, ref. LICENSE.
+
 import datetime
 import serial as s
 
